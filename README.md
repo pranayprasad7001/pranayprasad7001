@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://github.com/pranayprasad7001/generative-ai-projects/tree/main/langchain-projects/astradb-multidoc-rag-hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranayprasad7001&repo=generative-ai-projects&theme=github_dark" />
+    <img src="./profile/pin.svg" />
   </a>
 </p>
 
@@ -76,12 +76,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pranayprasad7001&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranayprasad7001&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="./profile/stats.svg" />
+  <img height="165" src="./profile/top-langs.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranayprasad7001&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=pranayprasad7001&theme=github-dark&hide_border=true" />
 </p>
 
 ---
