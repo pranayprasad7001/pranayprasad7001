@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer transitioning into GenAI / LLM Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+multi-agent+systems+with+LangGraph+%26+CrewAI;RAG+pipelines%2C+AI+agents%2C+vector+stores;2+years+Java+backend+%E2%86%92+GenAI+Engineer;Currently+open+to+AI%2FGenAI+Engineering+roles&font=Fira%20Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22&pause=2500"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+multi-agent+systems+with+LangGraph+%26+CrewAI;RAG+pipelines%2C+AI+agents%2C+vector+stores;2+years+Java+backend+%E2%86%92+GenAI+Engineer;Currently+open+to+AI%2FGenAI+Engineering+roles&font=Fira%20Code&center=true&width=750&height=50&color=58A6FF&vCenter=true&size=20&pause=2500"/>
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://github.com/pranayprasad7001/generative-ai-projects/tree/main/langchain-projects/astradb-multidoc-rag-hub">
-    <img src="./profile/pin.svg" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=pranayprasad7001&repo=generative-ai-projects&theme=github_dark" />
   </a>
 </p>
 
