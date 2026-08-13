@@ -27,7 +27,7 @@
 
 I'm an **AI Engineer focused on building reliable, production-oriented Generative AI systems**.
 
-My background is in backend software engineering, where I spent **2+ years working with Java and Spring Boot** before moving deeper into Machine Learning and Generative AI.
+My background is in backend software engineering, where I spent nearly **~2 years working with Java and Spring Boot** before moving deeper into Machine Learning and Generative AI.
 
 I completed an **M.Tech in Machine Learning & AI** and now focus on building systems around:
 
