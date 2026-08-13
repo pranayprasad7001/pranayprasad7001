@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Practical Generative AI projects covering LLMs, RAG, AI</tspan><tspan dy="1.2em" x="25">agents, SQL agents, tool calling, and Streamlit applications</tspan><tspan dy="1.2em" x="25">built with LangChain.</tspan>
+      <tspan dy="1.2em" x="25">Practical GenAI &#38; AI Engineering projects covering LLMs,</tspan><tspan dy="1.2em" x="25">RAG, AI agents, LangGraph, MCP, tool calling, guardrails, and</tspan><tspan dy="1.2em" x="25">LLM infrastructure.</tspan>
     </text>
 
     <g transform="translate(30, 75)">
